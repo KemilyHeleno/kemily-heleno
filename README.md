@@ -7,6 +7,6 @@
     </div>
 
 <div>
-  <a href="mailto:kemily.r.heleno@gmail.com"><img src="https://img.shieds.io/badge/-Gmail-%23333?style=for-the-badge&logoColor=white"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kemily-heleno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="mailto:kemily.r.heleno@gmail.com"><img src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=2&page=1&position=2&related_id=732200&origin=search"target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kemily-heleno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logoColor=white"target="_blank"></a>
   </div>
