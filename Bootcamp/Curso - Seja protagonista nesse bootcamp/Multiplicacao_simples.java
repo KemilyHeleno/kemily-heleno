@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
-        
+
     Scanner leitor = new Scanner(System.in);
 
     int A, B, PROD;
@@ -18,9 +18,9 @@ public class Main{
     A = leitor.nextInt();
     B = leitor.nextInt();
 
-    PROD = ; // Implemente o código que reresenta a multiplicação
+    PROD = A * B;
 
-    System.out.println("PROD = " + );
+    System.out.println("PROD = " + PROD);
 
     leitor.close();
     }
