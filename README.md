@@ -1,4 +1,4 @@
-## Hello!! Eu sou Kemily Heleno ♥
+## Eu sou Kemily Heleno ♥
 
 <div>
   <a href="https://github.com/KemilyHeleno">
